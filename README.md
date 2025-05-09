@@ -2,4 +2,13 @@
 This is my Final AP CSA Java Project fpr Mr. Peters p2 class
 ***
 ## Requirements for the project
+- User input
+- Superclass
+- Subclass
+- Array or Arraylist
+## Checklist
+- [ ] User input
+- [ ] Superclass
+- [ ] Subclass
+- [ ] Array or Arraylist
 
