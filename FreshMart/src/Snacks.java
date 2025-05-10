@@ -1,3 +1,3 @@
-public class Snacks {
+public class Snacks extends GroceryItem {
     
 }

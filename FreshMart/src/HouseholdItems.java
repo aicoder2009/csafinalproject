@@ -1,3 +1,3 @@
-public class HouseholdItems {
+public class HouseholdItems extends GroceryItem {
     
 }

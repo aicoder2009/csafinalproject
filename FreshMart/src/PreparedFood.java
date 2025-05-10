@@ -1,3 +1,3 @@
-public class PreparedFood {
+public class PreparedFood extends GroceryItem {
     
 }

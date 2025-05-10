@@ -1,3 +1,3 @@
-public class FrozenTreats {
+public class FrozenTreats extends GroceryItem{
     
 }
