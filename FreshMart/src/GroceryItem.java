@@ -23,4 +23,8 @@ public class GroceryItem {
     public String toString(){
         return name + " (" + quantity + ") " + " - " + price + " each | Total: $" + price;
     }
+    public void addMore(int qty){
+        quantity = qty;
+    }
+    
 }
