@@ -1,8 +1,8 @@
 # AP CSA Final Java Project
 This is my Final AP CSA Java Project fpr Mr. Peters p2 class
 
-name of the project: sample
-description:
+name of the project: App Store
+description: 
 
 ***
 ## Requirements for the project
