@@ -2,10 +2,9 @@ public class GroceryItem {
     String name;
     double price;
     int quantity;
-    String aisle;
-    public GroceryItem(String item, String catagory; double cost, int qty){
+    private String aisle;
+    public GroceryItem(String item, double cost, int qty){
         this.name = item;
-        this.aisle = catagory;
         this.price = cost;
         this.quantity = qty;
     }
