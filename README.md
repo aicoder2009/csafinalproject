@@ -16,8 +16,8 @@ This is my Final AP CSA Java Project for Mr. Peters p2 class
 - Subclass
 - Array or Arraylist
 ## Checklist
-- [ ] User input
-- [ ] Superclass
-- [ ] Subclass
-- [ ] Array or Arraylist
+- [X] User input
+- [X] Superclass
+- [X] Subclass
+- [X] Array or **Arraylist**
 
